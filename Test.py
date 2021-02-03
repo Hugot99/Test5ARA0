@@ -23,7 +23,7 @@ import tensorflow as tf
 #
 # is_male = True
 # is_tall = False
-#
+# test 3
 # if is_male and not(is_tall):
 #     print('Male or tall or both')
 # else:
