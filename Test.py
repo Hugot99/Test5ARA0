@@ -14,7 +14,7 @@ import tensorflow as tf
 #
 # say_hi('hugo')
 
-# #
+# #doei
 #
 # def cube(num):
 #     return num*num*num
